@@ -1,0 +1,3 @@
+date=`date `
+
+echo $date
